@@ -2,6 +2,6 @@
 
 ### Tour Golang 
 ***
-Progress  ==> [link](https://github.com/lpdmacedo/onboarding/blob/master/GO_TOUR.md)
-Remaining ==> Interfaces - Concurrency
+* Progress  ==> [link](https://github.com/lpdmacedo/onboarding/blob/master/GO_TOUR.md)
+* Remaining ==> Interfaces - Concurrency
 
